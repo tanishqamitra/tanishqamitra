@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://tanishqamitra.hashnode.dev/](https://tanishqamitra.hashnode.dev/)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Webdevlopment**
 
 - 📫 How to reach me **tanishqamitra79@gmail.com**
 
